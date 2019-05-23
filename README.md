@@ -1,4 +1,4 @@
-# Project: Analysis of Six Vangaurd Index Stock Returns
+# Project: Analysis of Six Vanguard Index Stock Returns
 
 
 

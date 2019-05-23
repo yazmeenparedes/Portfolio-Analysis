@@ -28,7 +28,7 @@ Efficient portfolio with target return of 0.5% monthly, efficient portfolio with
 investment return of stocks issued by companies located in the major markets of Europe. (for more
 information, see references)*
 
-## VEIEX: Vanguard Emerging Mkts Stock Idx Inv
+## VEIEX: Vanguard Emerging Markets Stock Index Investor
 *Asset tracks the performance of the FTSE Emerging Markets All Cap China by measuring the
 investment return of companies located in emerging market countries. (for more information, see
 references)*
@@ -37,7 +37,7 @@ references)*
 *Asset tracks the performance of the Bloomberg Barclays U.S. Long Government/Credit Float
 Adjusted Index. (for more information, see references)*
 
-## VBISX: Vanguard Short-Term Bond Index Inv
+## VBISX: Vanguard Short-Term Bond Index Investor
 *Asset tracks the performance of the Bloomberg Barclays U.S. 1-5 Year Government/Credit Float
 Adjusted Index. (for more information, see references)*
 
